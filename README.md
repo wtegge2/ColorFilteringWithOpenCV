@@ -25,7 +25,7 @@ Code explanation and comments can be found above every function and to the right
 
 ## Future Steps and Ideas
 
-* Image Blurring (faces, inapropriate images, etc)
+* Image Blurring (faces, inappropriate images, etc)
 * Facial Recognition
 
 
