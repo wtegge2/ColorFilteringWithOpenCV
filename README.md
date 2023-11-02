@@ -20,7 +20,7 @@ The motivation behind this project comes from a combination of my passion for le
 
 ## Code Explanation
 
-Code explanation and comments can be found above every function and to the right of almost every line. I tried to comment and explaina everything as best as I could, but if you cannot understand anything, please reach out. 
+Code explanation and comments can be found above every function and to the right of almost every line. I tried to comment and explain everything as best as I could, but if you cannot understand anything, please reach out. 
 
 
 ## Future Steps and Ideas
