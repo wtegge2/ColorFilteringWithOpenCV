@@ -1,7 +1,7 @@
 ## Color Filtering With OpenCV
 * [Intro](#Intro)
 * [Background and Motivation](#Background)
-* [Code Explanation](Code-Explanation)
+* [Code Explanation](#Code-Explanation)
 * [Future Steps](#Future-Steps-and-Ideas)
 * [Acknowledgements](#Acknowledgements)
 
